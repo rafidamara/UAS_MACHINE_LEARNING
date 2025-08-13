@@ -1,0 +1,18 @@
+{
+  "Generated_At": "2025-08-13T07:16:24",
+  "Dataset_Records": 511565,
+  "Date_Range": {
+    "min": "2009-12-01 07:45:00",
+    "max": "2010-12-09 20:01:00"
+  },
+  "Total_Revenue": 10305892.023999998,
+  "Total_Customers": 0,
+  "Total_Products": 4251,
+  "Total_Invoices": 20951,
+  "Clustering_Silhouette_Score": 0.3894908910622629,
+  "Optimal_Clusters": 2,
+  "Regression_R2_Score": 0.7586421491056972,
+  "Regression_RMSE": 59.67083208841001,
+  "Regression_MAE": 0.5585331881696962,
+  "Segmentation_ID_Level": "Invoice (proxy)"
+}
